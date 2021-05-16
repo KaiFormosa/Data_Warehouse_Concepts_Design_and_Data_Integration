@@ -4,7 +4,7 @@ This repository is a project portfolio for the "Data Warehouse Concepts, Design 
 
 - Evaluate an organization for data warehouse maturity and business architecture alignment
 - Create a data warehouse design and reflect on alternative design methodologies and design goals
-- Create data integration workflows using prominent open source software;
+- Create data integration workflows using prominent open source software
 - Reflect on the role of change data, refresh constraints, refresh frequency trade-offs, and data quality goals in data integration process design
 - Perform operations on pivot tables to satisfy typical business analysis requests using prominent open source software
 
