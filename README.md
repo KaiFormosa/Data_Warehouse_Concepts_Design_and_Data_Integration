@@ -1,6 +1,6 @@
 # Data Warehouse Concepts, Design and Data Integration
 
-This repository is a project portfolio for the "Data Warehouse Concepts, Design and Data Integration" certification program by Coursera. This course prepares students with the design experience, software background, and organizational context to succeed with data warehouse development projects. Through this course, students learn to:
+This repository is a project portfolio for the "Data Warehouse Concepts, Design and Data Integration" certification program by Coursera. This program is part 2 of the "Data Warehousing for Business Intelligence" Specialization which prepares students with the design experience, software background, and organizational context to succeed with data warehouse development projects. Through this program, students learn to:
 
 - Evaluate an organization for data warehouse maturity and business architecture alignment
 - Create a data warehouse design and reflect on alternative design methodologies and design goals
@@ -8,7 +8,7 @@ This repository is a project portfolio for the "Data Warehouse Concepts, Design 
 - Reflect on the role of change data, refresh constraints, refresh frequency trade-offs, and data quality goals in data integration process design
 - Perform operations on pivot tables to satisfy typical business analysis requests using prominent open source software
 
-There are 5 modules in this course. Each folder in this repository is a collection of the working and data files for the assignment in each module.
+There are 5 modules in this program. Each folder in this repository is a collection of the working and data files for the assignment in each module.
 
 ---
 
